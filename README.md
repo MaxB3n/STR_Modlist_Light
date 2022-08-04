@@ -69,7 +69,9 @@ Back in the Main Mod Organizer 2 interface, click on the downloads tab on the ri
 
 In the plugins tab on the right, search "bash" to make sure bashed patch 2 is enabled and no other bashed patches. Search plugins for "SSEMerged" and make sure sse merged 2.1.1 is enabled and no other SSEMerged patches.
 
-Everything is installed as it should be now! You're almost done, we just have to sort plugins. From the drop down next to [RUN], select LOOT and then run it. Once LOOT initializes, click sort plugins in the top left corner, and then hit apply load order, then close LOOT.
+Everything is installed as it should be now! You're almost done, we just have to sort plugins and set up skyrim preferences. From the drop down next to [RUN], select LOOT and then run it. Once LOOT initializes, click sort plugins in the top left corner, and then hit apply load order, then close LOOT.
+
+From the drop down, select BethINI and [RUN]. Close MO2 when prompted and hit OK. Select recommended tweaks and appropriate quality settings in the BethINI window, then save and exit.
 
 Everything should be good to go! Select Skyrim together in the drop down menu and run it!
 
