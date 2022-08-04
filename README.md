@@ -60,8 +60,10 @@ NOTE: this instance of mod organizer 2 is separate from any other installation a
 Time to add all of the accessory files.
 
 Copy the contents of STR Light Modlist > STR Installation Folder Files into your installation folder again to make sure wabbajack didnt overwrite anything while it finished up.
+
 Copy the contents of STR Installation > Game Folder Files and paste it in the SSE application folder in your new steam library (address should look something like
-library folder > steamapps > common > SSE), you should be prompted to replace some files, do.  
+library folder > steamapps > common > SSE), you should be prompted to replace some files, do. While you're in the game folder, open the data folder and delete the creation club content files, there should be 8.
+
 Copy the contents of STR Light Modlist > Documents Folder Files and paste inside of the SSE documents folder (Documents > My Games > SSE), replace when prompted.
 
 
